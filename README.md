@@ -1,3 +1,4 @@
-# goalvotes
+# GoalVotes.com
+(Currently Down)
 
-Website for viewing and voting for various soccer goals. Full functionality expected 2016.
+Website for viewing and voting for various soccer goals. (Currently not hosted, static version available soon)
